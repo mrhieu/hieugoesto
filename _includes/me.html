@@ -1,0 +1,31 @@
+<div class="me-page">
+  <img class="avatar fade" fade-in src="images/avatar.png" alt="avatar">
+  <h1 class="name">Hieu Pham</h1>
+  <p class="introduction">
+    Watches lover. Over-thinker. Web developer.
+    <br>
+    UI/UX lover at ReFUEL4.
+    <br>
+    Hungry & foolish. See me at <a href="https://www.linkedin.com/in/hieupv"><b>linkedin.com/in/hieupv</b></a>
+    <br>
+    or join me ┐( ˘_˘ )┌
+  </p>
+  <div class="social">
+    <p>Else where</p>
+    <div class="social-icons">
+      <ul style="padding-left: 0">
+        <li ng-repeat="item in socials">
+          <a href="{{item.url}}" target="_blank">
+            <i class="fa fa-{{item.name}}" tooltip-placement="top" tooltip="{{item.name}}"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="fun">
+    <a href="https://www.flickr.com/photos/14835854@N03/14811447395/">
+      <i class="fa fa-info-circle" tooltip-placement="top" tooltip="What's on the background?"></i>
+    </a>
+  </div>
+</div>
