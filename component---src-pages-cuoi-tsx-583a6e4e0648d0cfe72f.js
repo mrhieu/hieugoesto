@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhieugoesto=self.webpackChunkhieugoesto||[]).push([[911],{7936:function(e,t,a){a.r(t);var n=a(7294),l=a(1883);t.default=()=>n.createElement("div",null,n.createElement("p",null,"Redirecting to ",n.createElement(l.Link,{to:"/savethedate"},"/savethedate")))}}]);
+//# sourceMappingURL=component---src-pages-cuoi-tsx-583a6e4e0648d0cfe72f.js.map
