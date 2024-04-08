@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhieugoesto=self.webpackChunkhieugoesto||[]).push([[64],{3714:function(e,l,t){t.r(l);var n=t(7294),u=t(4151),r=t(9055),a=t(1875),c=t(7547),s=t(7283);l.default=()=>n.createElement(u.A,null,n.createElement(n.Fragment,null,n.createElement(a.Y,{side:"bride"}),n.createElement(c.W,null),n.createElement(s.r,null),n.createElement(r.$,null)))}}]);
+//# sourceMappingURL=component---src-pages-wedding-phuong-tsx-bb1ff6d8d60f4c173eaf.js.map
